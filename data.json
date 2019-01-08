@@ -1,0 +1,34 @@
+{
+  "customers": [
+    {
+      "id": "2",
+      "name": "Reid",
+      "email": "Reid@gmail.com",
+      "age": 33
+    },
+    {
+      "id": "3",
+      "name": "Lori Vanderschmidt",
+      "email": "LoriV33@gmail.com",
+      "age": 28
+    },
+    {
+      "id": "4",
+      "name": "Elizabeth Shoemaker",
+      "email": "Liz55@gmail.com",
+      "age": 27
+    },
+    {
+      "id": "5",
+      "name": "Timmy Tester",
+      "email": "Timothy@gmail.com",
+      "age": 52
+    },
+    {
+      "name": "Jim Jones",
+      "email": "jj@gmail.com",
+      "age": 22,
+      "id": "VDIs4lc"
+    }
+  ]
+}
